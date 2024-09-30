@@ -1,7 +1,5 @@
 # Financial Analysis of Accenture
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
-
 ## Project Overview :
 
 Financial Analysis of Accenture
@@ -50,6 +48,9 @@ To view the project, ensure you have Power BI Desktop installed. Download the pr
  2. Total net profit = SUM(Actuals[Net Income])
 
  3. Final margin = Actuals[Net Income]/Actuals[Total Revenue Include other servieces]
+
+
+I have joined the interactive dashboard of my project and files i have used for this project. You can download it.
 
 
 
