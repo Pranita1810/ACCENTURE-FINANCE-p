@@ -51,4 +51,9 @@ To view the project, ensure you have Power BI Desktop installed. Download the pr
 
  3. Final margin = Actuals[Net Income]/Actuals[Total Revenue Include other servieces]
 
- 
+
+
+
+
+
+
